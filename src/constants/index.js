@@ -14,15 +14,15 @@ export const EXPERIENCES = [
     company: "Iva Technos",
     description: `Implemented an advanced search system with multiple filters including category selection, location-based filtering, and date parameters.
 Built a responsive category system showcasing different sections (Events, Learning, Property, Education, etc.) with custom icons and navigation.`,
-    technologies: ["Tailwind CSS", "React.js", "Next.js", "PostgreSQL"],
+    technologies: ["Tailwind CSS", "React.js", "Next.js", "Node.js", "PostgreSQL"],
   },
   {
     year: "Dec 2023 - May 2024",
-    role: "Frontend Developer - Intership",
+    role: "Frontend Developer - Internship",
     company: "Throughbit Technologies",
     description: `Developed responsive and interactive UI components using React.js, enhancing the overall user experience.
 Gained valuable experience in version control and collaborative development using Git and GitHub.`,
-    technologies: ["React", "Tailwind CSS", "MongoDB", "Firebase"],
+    technologies: ["HTML", "CSS","React.js", "MongoDB"],
   },
   // {
   //   year: "2021 - 2022",
@@ -46,14 +46,14 @@ export const PROJECTS = [
     image: project1,
     description:
       "Architected and developed a comprehensive city-based platform using React.js and Next.js, enabling users to discover local events, properties, and services.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["Tailwind", "React", "Node.js", "PostgreSQL"],
   },
   {
     title: "Coindiary",
     image: project2,
     description:
       "Contributed to the development of Coindiary V1, a crypto social media platform, focusing on user interface components and data integration.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["HTML", "CSS", "React", "Firebase"],
   },
   // {
   //   title: "Portfolio Website",

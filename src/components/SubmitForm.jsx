@@ -133,9 +133,9 @@ const SubmitForm = () => {
                         initial= 'initial'
                         animate= 'animate'
                         variants={iconVariants(3)}
-                        href="/404"
-                           target='_self'
-                          //  rel='noopener noreferrer'
+                        href="https://github.com/shridhar2000"
+                           target='_blank'
+                           rel='noopener noreferrer'
                            aria-label='GitHub'>
                             <FaGithub />
                         </motion.a>

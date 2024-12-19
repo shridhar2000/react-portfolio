@@ -16,7 +16,7 @@ const iconVariants = (duration) => ({
             duration: duration,
             ease: "linear",
             repeat: Infinity,
-            repeatType: 'reverse',
+            repeatType: 'reverse', 
         }
     }
 })
